@@ -52,3 +52,10 @@ GET /api/dashboard/summary
 GET /api/dashboard/category  
 GET /api/dashboard/monthly  
 GET /api/dashboard/recent  
+
+
+## Assumptions
+
+- JWT based authentication
+- Role-based access control
+- MongoDB used for persistence
